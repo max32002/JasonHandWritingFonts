@@ -11,17 +11,15 @@
 5. 目前已經釋出3套不同風格的清松手寫體
 
 ## 預覽：
-regular
-![regular](https://github.com/max32002/JasonHandWritingFonts/raw/master/preview/latin/regular.png)
+清松手寫體1
+![清松手寫體1](https://github.com/max32002/JasonHandWritingFonts/raw/master/preview/tw/JasonHandwriting1.png)
 
-light
-![light](https://github.com/max32002/JasonHandWritingFonts/raw/master/preview/latin/light.png)
+清松手寫體2
+![清松手寫體2](https://github.com/max32002/JasonHandWritingFonts/raw/master/preview/tw/JasonHandwriting2.png)
 
-bold
-![bold](https://github.com/max32002/JasonHandWritingFonts/raw/master/preview/latin/bold.png)
+清松手寫體3
+![清松手寫體3](https://github.com/max32002/JasonHandWritingFonts/raw/master/preview/tw/JasonHandwriting3.png)
 
-heavy
-![heavy](https://github.com/max32002/JasonHandWritingFonts/raw/master/preview/latin/heavy.png)
 
 ## 原作者：
 游清松
