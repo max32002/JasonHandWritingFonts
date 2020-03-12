@@ -29,7 +29,7 @@ https://www.facebook.com/groups/549661292148791/
 
 ## 著作權與授權
 
-* 本字型是基於 SIL Open Font License 1.1 改游清松先生所開發、發表的「清松手寫體](https://www.facebook.com/groups/549661292148791/)」字型。
+* 本字型是基於 SIL Open Font License 1.1 改游清松先生所開發、發表的「[清松手寫體](https://www.facebook.com/groups/549661292148791/)」字型。
 * 本字型亦基於 SIL Open Font License 1.1 授權條款免費公開，關於授權合約的內容、免責事項等細節，請詳讀 License 文件。
     * 本字型可自由使用在印刷、影像、網路或任何媒體上，不限個人或商業使用。
     * 您可基於 SIL Open Font License 1.1 的規定再散佈或改造本字型。
