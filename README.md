@@ -47,3 +47,34 @@ https://jasonfonts.max-everyday.com/
 * 本字型亦基於 SIL Open Font License 1.1 授權條款免費公開，關於授權合約的內容、免責事項等細節，請詳讀 License 文件。
     * 本字型可自由使用在印刷、影像、網路或任何媒體上，不限個人或商業使用。
     * 您可基於 SIL Open Font License 1.1 的規定再散佈或改造本字型。
+
+    
+## 相關網頁
+
+* 獅尾四季春字體 Swei Spring
+https://max-everyday.com/2020/04/swei-spring/
+* 獅尾半月字體 Swei Gothic
+https://max-everyday.com/2020/04/swei-half-moon/
+* 獅尾圓體 Swei Gothic
+https://max-everyday.com/2020/04/swei-gothic/
+* 獅尾黑體 Swei Sans
+https://max-everyday.com/2020/03/swei-sans/
+* 內海字體 (NaikaiFont) 
+https://max-everyday.com/2020/03/naikaifont/
+* 莫大毛筆字體 (Bakudai)
+https://max-everyday.com/2020/03/bakudaifont/
+* 清松手寫體 (JasonHandWriting)
+https://jasonfonts.max-everyday.com/
+* 源泉圓體
+https://github.com/ButTaiwan/gensen-font
+* jf open 粉圓
+https://github.com/justfont/open-huninn-font
+* 假粉圓體
+https://github.com/max32002/FakePearl
+* 俊羽圓體
+https://github.com/max32002/YuPearl
+
+## 贊助Max
+
+很高興可以替中華民國美學盡一分心力，如果你覺得這篇文章寫的很好，想打賞Max，贊助方式如下：
+https://max-everyday.com/about/#donate
