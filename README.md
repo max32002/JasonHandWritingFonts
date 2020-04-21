@@ -6,6 +6,12 @@
 https://github.com/jasonhandwriting/JasonHandwriting
 
 ## 改版記錄：
+目前修改清松手寫體的3個字體，分別是基於這幾個版本：
+* 「清松手寫體1」ver 1.37
+* 「清松手寫體2」ver 1.04
+* 「清松手寫體3」ver 1.22
+
+
 基於「清松手寫體1」ver 1.37 Max修改的部份如下：
 * 額外增字：樘溏虓髣髴鳧𠊎
 
