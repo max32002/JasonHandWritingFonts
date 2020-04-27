@@ -7,9 +7,9 @@ https://github.com/jasonhandwriting/JasonHandwriting
 
 ## 改版記錄：
 目前修改清松手寫體的3個字體，分別是基於這幾個版本：
-* 「清松手寫體1」ver 1.37，Max額外增6565字。（參考[jason1_new_glyph.txt](https://github.com/max32002/JasonHandWritingFonts/raw/master/jason1_new_glyph.txt)）
-* 「清松手寫體2」ver 1.04，Max額外增7586字。（參考[jason2_new_glyph.txt](https://github.com/max32002/JasonHandWritingFonts/raw/master/jason2_new_glyph.txt)）
-* 「清松手寫體3」ver 1.22
+* 「清松手寫體1」ver 1.37，Max額外增6572字。（參考[jason1_new_glyph.txt](https://github.com/max32002/JasonHandWritingFonts/raw/master/jason1_new_glyph.txt)）
+* 「清松手寫體2」ver 1.04，Max額外增7611字。（參考[jason2_new_glyph.txt](https://github.com/max32002/JasonHandWritingFonts/raw/master/jason2_new_glyph.txt)）
+* 「清松手寫體3」ver 1.22，Max額外增7304字。（參考[jason3_new_glyph.txt](https://github.com/max32002/JasonHandWritingFonts/raw/master/jason3_new_glyph.txt)）
 
 
 附註： 由於是「非原作者」的補字，新加入的字在風格上，雖然盡力求一致，難免會與原作者會有一些不同。
