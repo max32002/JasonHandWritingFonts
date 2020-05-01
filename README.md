@@ -12,7 +12,7 @@ https://github.com/jasonhandwriting/JasonHandwriting
 * 「清松手寫體3」ver 1.22，Max增加（或更新）中文7,304字，目前總字數：12,479字（和符號）。（參考[jason3_new_glyph.txt](https://github.com/max32002/JasonHandWritingFonts/raw/master/jason3_new_glyph.txt)）
 
 
-附註： 由於是「非原作者」的補字，新加入的字在風格上，雖然盡力求一致，難免會與原作者會有一些不同。
+附註： 由於是「非原作者」的補字，新加入的字在風格上，雖然盡力求一致，難免會與原作者會有一些不同。有一些字補的「超級醜」的，一般情況應該不會遇到。
 
 說明：版本編號的前面2碼會是清松手寫體原本的版號，第3碼是Max增修的版號。
 
