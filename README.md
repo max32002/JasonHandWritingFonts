@@ -16,19 +16,11 @@ https://github.com/jasonhandwriting/JasonHandwriting
 
 說明：版本編號的前面2碼會是清松手寫體原本的版號，第3碼是Max增修的版號。
 
-
 ## 修改：
 * 修改1號字「燜」的錯字。
 * 修改2號字「麋」和「穈」的錯誤。
 * 修改2號字「勢」的誤用「執」部件的錯誤。
 
-
-## 特色：
-1. 世界上唯一可以讓使用者無條件提出增字要求的免費字型！
-2. 持續更新、持續創作！
-3. 個人/企業使用100%完全免費！
-4. 任何型式的商用，只要是合法的也100%完全免費！
-5. 目前已經釋出3套不同風格的清松手寫體
 
 ## 預覽：
 清松手寫體1
@@ -41,10 +33,12 @@ https://github.com/jasonhandwriting/JasonHandwriting
 ![清松手寫體3](https://github.com/max32002/JasonHandWritingFonts/raw/master/preview/tw/JasonHandwriting3.png)
 
 
-## 原作者：
-[游清松](https://www.facebook.com/profile.php?id=100000429450523)
+## 下載字型
 
-## Facebook社團：
+請點選GitHub此畫面右上綠色「Clone or download」按鈕，並選擇「Download ZIP」，或點進想下載的ttf字型檔案，再點「Download」的按鈕進行下載。
+
+
+## 「順其字然」Facebook社團：
 https://www.facebook.com/groups/549661292148791/
 
 
