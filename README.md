@@ -52,7 +52,7 @@ https://github.com/jasonhandwriting/JasonHandwriting
   , url(https://github.com/max32002/JasonHandWritingFonts/raw/master/tw/JasonHandwriting1-Regular.ttf) format("truetype");
 }
 ```
-當 woff2 上 Github 後，也可透過以下方式從 CDN 中引入，上方的url置換成CDN快取的url後，將可大幅加快網頁載入。推薦使 jsDelivr 的服務，在速度上挺不錯的，參考看看： www.cdnperf.com/#!performance,Asia 。
+您也可以透過從CDN引入在GitHub上woff2檔案的網址，再把上方的url()內容置換成CDN快取後的網址，將可大幅加快網頁載入。推薦使用 jsDelivr 的服務，在速度上挺不錯的，參考看看： www.cdnperf.com/#!performance,Asia 。
 
 ## 「順其字然」Facebook社團：
 https://www.facebook.com/groups/549661292148791/
