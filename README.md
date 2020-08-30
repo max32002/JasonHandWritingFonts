@@ -10,6 +10,7 @@ https://github.com/jasonhandwriting/JasonHandwriting
 * 「清松手寫體1」ver 1.37，Max增加（或更新）中文9,836字，增加符號4,802字，目前總字約：24,000字（和符號）。（參考[jason1_new_glyph.txt](https://github.com/max32002/JasonHandWritingFonts/raw/master/jason1_new_glyph.txt)）
 * 「清松手寫體2」ver 1.04，Max增加（或更新）中文13,322字，增加符號5,339字，目前總字數：26,000字（和符號）。（參考[jason2_new_glyph.txt](https://github.com/max32002/JasonHandWritingFonts/raw/master/jason2_new_glyph.txt)）
 * 「清松手寫體3」ver 1.22，Max增加（或更新）中文12,167字，目前總字數：17,000字（和符號）。（參考[jason3_new_glyph.txt](https://github.com/max32002/JasonHandWritingFonts/raw/master/jason3_new_glyph.txt)）
+* 「清松手寫體4」ver 1.00. 
 
 
 附註： 由於是「非原作者」的補字，新加入的字在風格上，雖然盡力求一致，難免會與原作者會有一些不同。有一些字補的「超級醜」的，一般情況應該不會遇到。
@@ -33,6 +34,8 @@ https://github.com/jasonhandwriting/JasonHandwriting
 清松手寫體3
 ![清松手寫體3](https://github.com/max32002/JasonHandWritingFonts/raw/master/preview/tw/JasonHandwriting3.png)
 
+清松手寫體4
+![清松手寫體4](https://github.com/max32002/JasonHandWritingFonts/raw/master/preview/tw/JasonHandwriting4.png)
 
 ## 下載字型
 
@@ -51,10 +54,11 @@ https://github.com/jasonhandwriting/JasonHandwriting
   , url(https://cdn.jsdelivr.net/gh/max32002/JasonHandWritingFonts@1.1/webfont/JasonHandwriting1-Regular.woff) format("woff");
 }
 ```
+說明：切換字的編號有1~4可以使用。調整粗細修改Regular為想要的字重。
+
 
 ## 「順其字然」Facebook社團：
 https://www.facebook.com/groups/549661292148791/
-
 
 ## 非官方的網站：
 https://jasonfonts.max-everyday.com/
