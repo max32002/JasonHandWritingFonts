@@ -10,7 +10,7 @@ https://github.com/jasonhandwriting/JasonHandwriting
 * 「清松手寫體1」ver 1.37，Max增加（或更新）中文9,836字，增加符號4,802字，目前總字約：24,000字（和符號）。（參考[jason1_new_glyph.txt](https://github.com/max32002/JasonHandWritingFonts/raw/master/jason1_new_glyph.txt)）
 * 「清松手寫體2」ver 1.04，Max增加（或更新）中文13,322字，增加符號5,339字，目前總字數：26,000字（和符號）。（參考[jason2_new_glyph.txt](https://github.com/max32002/JasonHandWritingFonts/raw/master/jason2_new_glyph.txt)）
 * 「清松手寫體3」ver 1.22，Max增加（或更新）中文12,167字，目前總字數：17,000字（和符號）。（參考[jason3_new_glyph.txt](https://github.com/max32002/JasonHandWritingFonts/raw/master/jason3_new_glyph.txt)）
-* 「清松手寫體4」ver 1.00，Max增加（或更新）中文7,832字，目前總字數：18,154字（和符號）。詳細請參考[jason4_new_glyph.txt](https://github.com/max32002/JasonHandWritingFonts/raw/master/jason4_new_glyph.txt)）
+* 「清松手寫體4」ver 1.00，Max增加（或更新）中文7,834字，目前總字數：18,156字（和符號）。詳細請參考[jason4_new_glyph.txt](https://github.com/max32002/JasonHandWritingFonts/raw/master/jason4_new_glyph.txt)）
 
 
 附註1：由於是「非原作者」的補字，新加入的字在風格上，雖然盡力求一致，難免會與原作者會有一些不同。
@@ -24,7 +24,7 @@ https://github.com/jasonhandwriting/JasonHandwriting
 * 修改2號字「麋」和「穈」的錯誤。
 * 修改2號字「勢」字的錯誤：誤用「執」部件。
 * 修改2號字「括」字的錯誤。
-* 修改4號字的錯誤：惚劫。
+* 修改4號字的錯誤：3個(惚劫癒)。
 
 
 ## 預覽：
