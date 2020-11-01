@@ -51,8 +51,8 @@ https://github.com/jasonhandwriting/JasonHandwriting
 ```
 @font-face {
   font-family: "JasonHandwriting1-Regular";
-  src: url(https://cdn.jsdelivr.net/gh/max32002/JasonHandWritingFonts@20201026/webfont/JasonHandwriting1-Regular.woff2) format("woff2")
-  , url(https://cdn.jsdelivr.net/gh/max32002/JasonHandWritingFonts@20201026/webfont/JasonHandwriting1-Regular.woff) format("woff");
+  src: url(https://cdn.jsdelivr.net/gh/max32002/JasonHandWritingFonts@20201101/webfont/JasonHandwriting1-Regular.woff2) format("woff2")
+  , url(https://cdn.jsdelivr.net/gh/max32002/JasonHandWritingFonts@20201101/webfont/JasonHandwriting1-Regular.woff) format("woff");
 }
 ```
 說明：切換字的編號有1~4可以使用。調整粗細修改Regular為想要的字重。
