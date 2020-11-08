@@ -7,7 +7,7 @@ https://github.com/jasonhandwriting/JasonHandwriting
 
 ## 改版記錄：
 目前修改清松手寫體的3個字體，分別是基於這幾個版本：
-* 「清松手寫體1」ver 1.43，Max增加（或更新）中文9,836字，增加符號4,802字，目前總字約：25,710字（和符號）。（參考[jason1_new_glyph.txt](https://github.com/max32002/JasonHandWritingFonts/raw/master/jason1_new_glyph.txt)）
+* 「清松手寫體1」ver 1.45，Max增加（或更新）中文9,836字，增加符號4,802字，目前總字約：25,689字（和符號）。（參考[jason1_new_glyph.txt](https://github.com/max32002/JasonHandWritingFonts/raw/master/jason1_new_glyph.txt)）
 * 「清松手寫體2」ver 1.04，Max增加（或更新）中文13,322字，增加符號5,339字，目前總字數：26,000字（和符號）。（參考[jason2_new_glyph.txt](https://github.com/max32002/JasonHandWritingFonts/raw/master/jason2_new_glyph.txt)）
 * 「清松手寫體3」ver 1.22，Max增加（或更新）中文12,167字，目前總字數：17,000字（和符號）。（參考[jason3_new_glyph.txt](https://github.com/max32002/JasonHandWritingFonts/raw/master/jason3_new_glyph.txt)）
 * 「清松手寫體4」ver 1.01，Max增加（或更新）中文7,383字，目前總字數：18,157字（和符號）。詳細請參考[jason4_new_glyph.txt](https://github.com/max32002/JasonHandWritingFonts/raw/master/jason4_new_glyph.txt)）
