@@ -65,6 +65,12 @@ https://github.com/jasonhandwriting/JasonHandwriting
 }
 ```
 
+附註：
+
+* 5號字型的固定寬的版本，明顯感覺到奇怪的間距，使用 5p（變動寬）文字間的間距就比較不明顯。
+* 固定寬的版本也容易覺得文字會忽大忽小。
+* 變動寬的版本，比較有手寫字的效果。
+
 
 ## 「順其字然」Facebook社團：
 https://www.facebook.com/groups/549661292148791/
