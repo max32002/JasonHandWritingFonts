@@ -57,11 +57,11 @@ https://github.com/jasonhandwriting/JasonHandwriting
 ```
 @font-face {
   font-family: "JasonHandwriting5";
-  src: url(https://cdn.jsdelivr.net/gh/max32002/JasonHandwriting5@20220828/webfont/JasonHandwriting5.woff2) format("woff2");
+  src: url(https://cdn.jsdelivr.net/gh/max32002/JasonHandWritingFonts@20220828/webfont/JasonHandwriting5.woff2) format("woff2");
 }
 @font-face {
   font-family: "JasonHandwriting5p";
-  src: url(https://cdn.jsdelivr.net/gh/max32002/JasonHandwriting5p@20220828/webfont/JasonHandwriting5p.woff2) format("woff2");
+  src: url(https://cdn.jsdelivr.net/gh/max32002/JasonHandWritingFonts@20220828/webfont/JasonHandwriting5p.woff2) format("woff2");
 }
 ```
 
