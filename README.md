@@ -11,6 +11,7 @@ https://github.com/jasonhandwriting/JasonHandwriting
 * 「清松手寫體2」ver 1.06，Max增加（或更新）中文13,322字，增加符號5,339字，目前總字數：26,037字（和符號）。（參考[jason2_new_glyph.txt](https://github.com/max32002/JasonHandWritingFonts/raw/master/jason2_new_glyph.txt)）
 * 「清松手寫體3」ver 1.24，Max增加（或更新）中文12,167字，目前總字數：17,357字（和符號）。（參考[jason3_new_glyph.txt](https://github.com/max32002/JasonHandWritingFonts/raw/master/jason3_new_glyph.txt)）
 * 「清松手寫體4」ver 1.01，Max增加（或更新）中文7,383字，目前總字數：18,157字（和符號）。詳細請參考[jason4_new_glyph.txt](https://github.com/max32002/JasonHandWritingFonts/raw/master/jason4_new_glyph.txt)）
+* 「清松手寫體5」, 直接搬原作者的來，沒修改。
 
 附註1：由於是「非原作者」的補字，新加入的字在風格上，雖然盡力求一致，難免會與原作者會有一些不同。
 
@@ -47,11 +48,22 @@ https://github.com/jasonhandwriting/JasonHandwriting
 ```
 @font-face {
   font-family: "JasonHandwriting1-Regular";
-  src: url(https://cdn.jsdelivr.net/gh/max32002/JasonHandWritingFonts@20210716/webfont/JasonHandwriting1-Regular.woff2) format("woff2")
-  , url(https://cdn.jsdelivr.net/gh/max32002/JasonHandWritingFonts@20210716/webfont/JasonHandwriting1-Regular.woff) format("woff");
+  src: url(https://cdn.jsdelivr.net/gh/max32002/JasonHandWritingFonts@20220828/webfont/JasonHandwriting1-Regular.woff2) format("woff2");
 }
 ```
 說明：切換字的編號有1~4可以使用。調整粗細修改Regular為想要的字重。
+
+5號字的範例css：
+```
+@font-face {
+  font-family: "JasonHandwriting5";
+  src: url(https://cdn.jsdelivr.net/gh/max32002/JasonHandwriting5@20220828/webfont/JasonHandwriting5.woff2) format("woff2");
+}
+@font-face {
+  font-family: "JasonHandwriting5p";
+  src: url(https://cdn.jsdelivr.net/gh/max32002/JasonHandwriting5p@20220828/webfont/JasonHandwriting5p.woff2) format("woff2");
+}
+```
 
 
 ## 「順其字然」Facebook社團：
@@ -64,8 +76,8 @@ https://jasonfonts.max-everyday.com/
 
 * 本字型是基於 SIL Open Font License 1.1 改游清松先生所開發、發表的「[清松手寫體](https://www.facebook.com/groups/549661292148791/)」字型。
 * 本字型亦基於 SIL Open Font License 1.1 授權條款免費公開，關於授權合約的內容、免責事項等細節，請詳讀 License 文件。
-    * 本字型可自由使用在印刷、影像、網路或任何媒體上，不限個人或商業使用。
-    * 您可基於 SIL Open Font License 1.1 的規定再散佈或改造本字型。
+* 本字型可自由使用在印刷、影像、網路或任何媒體上，不限個人或商業使用。
+* 您可基於 SIL Open Font License 1.1 的規定再散佈或改造本字型。
 
     
 ## 相關網頁
