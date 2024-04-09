@@ -7,11 +7,13 @@ https://github.com/jasonhandwriting/JasonHandwriting
 
 ## 改版記錄：
 目前修改清松手寫體的3個字體，分別是基於這幾個版本：
-* 「清松手寫體1」ver 1.48，Max增加（或更新）中文9,836字，增加符號4,802字，目前總字約：25,689字（和符號）。（參考[jason1_new_glyph.txt](https://github.com/max32002/JasonHandWritingFonts/raw/master/jason1_new_glyph.txt)）
-* 「清松手寫體2」ver 1.06，Max增加（或更新）中文13,322字，增加符號5,339字，目前總字數：26,037字（和符號）。（參考[jason2_new_glyph.txt](https://github.com/max32002/JasonHandWritingFonts/raw/master/jason2_new_glyph.txt)）
-* 「清松手寫體3」ver 1.24，Max增加（或更新）中文12,167字，目前總字數：17,357字（和符號）。（參考[jason3_new_glyph.txt](https://github.com/max32002/JasonHandWritingFonts/raw/master/jason3_new_glyph.txt)）
-* 「清松手寫體4」ver 1.01，Max增加（或更新）中文7,383字，目前總字數：18,157字（和符號）。詳細請參考[jason4_new_glyph.txt](https://github.com/max32002/JasonHandWritingFonts/raw/master/jason4_new_glyph.txt)）
+* 「清松手寫體1」ver 1.48，Max增加（或更新）中文9,836字，增加符號4,802字，目前總字約：25,689字（和符號）。（參考[jason1_new_glyph.txt](https://github.com/max32002/JasonHandWritingFonts/raw/main/jason1_new_glyph.txt)）
+* 「清松手寫體2」ver 1.06，Max增加（或更新）中文13,322字，增加符號5,339字，目前總字數：26,037字（和符號）。（參考[jason2_new_glyph.txt](https://github.com/max32002/JasonHandWritingFonts/raw/main/jason2_new_glyph.txt)）
+* 「清松手寫體3」ver 1.25，Max增加（或更新）中文12,167字，目前總字數：17,357字（和符號）。（參考[jason3_new_glyph.txt](https://github.com/max32002/JasonHandWritingFonts/raw/main/jason3_new_glyph.txt)）
+* 「清松手寫體4」ver 1.01，Max增加（或更新）中文7,383字，目前總字數：18,157字（和符號）。詳細請參考[jason4_new_glyph.txt](https://github.com/max32002/JasonHandWritingFonts/raw/main/jason4_new_glyph.txt)）
 * 「清松手寫體5」, 直接搬原作者的來，沒修改。
+* 「清松手寫體6」, 直接搬原作者的來，沒修改。
+* 「清松手寫體7」, 直接搬原作者的來，沒修改。
 
 附註1：由於是「非原作者」的補字，新加入的字在風格上，雖然盡力求一致，難免會與原作者會有一些不同。
 
@@ -24,16 +26,16 @@ https://github.com/jasonhandwriting/JasonHandwriting
 
 ## 預覽：
 清松手寫體1
-![清松手寫體1](https://github.com/max32002/JasonHandWritingFonts/raw/master/preview/tw/JasonHandwriting1.png)
+![清松手寫體1](https://github.com/max32002/JasonHandWritingFonts/raw/main/preview/tw/JasonHandwriting1.png)
 
 清松手寫體2
-![清松手寫體2](https://github.com/max32002/JasonHandWritingFonts/raw/master/preview/tw/JasonHandwriting2.png)
+![清松手寫體2](https://github.com/max32002/JasonHandWritingFonts/raw/main/preview/tw/JasonHandwriting2.png)
 
 清松手寫體3
-![清松手寫體3](https://github.com/max32002/JasonHandWritingFonts/raw/master/preview/tw/JasonHandwriting3.png)
+![清松手寫體3](https://github.com/max32002/JasonHandWritingFonts/raw/main/preview/tw/JasonHandwriting3.png)
 
 清松手寫體4
-![清松手寫體4](https://github.com/max32002/JasonHandWritingFonts/raw/master/preview/tw/JasonHandwriting4.png)
+![清松手寫體4](https://github.com/max32002/JasonHandWritingFonts/raw/main/preview/tw/JasonHandwriting4.png)
 
 ## 下載字型
 
@@ -51,19 +53,8 @@ https://github.com/jasonhandwriting/JasonHandwriting
   src: url(https://cdn.jsdelivr.net/gh/max32002/JasonHandWritingFonts@20220828/webfont/JasonHandwriting1-Regular.woff2) format("woff2");
 }
 ```
-說明：切換字的編號有1~4可以使用。調整粗細修改Regular為想要的字重。
+說明：調整粗細修改Regular為想要的字重。
 
-5號字的範例css：
-```
-@font-face {
-  font-family: "JasonHandwriting5";
-  src: url(https://cdn.jsdelivr.net/gh/max32002/JasonHandWritingFonts@20220828/webfont/JasonHandwriting5.woff2) format("woff2");
-}
-@font-face {
-  font-family: "JasonHandwriting5p";
-  src: url(https://cdn.jsdelivr.net/gh/max32002/JasonHandWritingFonts@20220828/webfont/JasonHandwriting5p.woff2) format("woff2");
-}
-```
 
 附註：
 
