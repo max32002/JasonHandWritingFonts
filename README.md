@@ -37,6 +37,15 @@ https://github.com/jasonhandwriting/JasonHandwriting
 清松手寫體4
 ![清松手寫體4](https://github.com/max32002/JasonHandWritingFonts/raw/main/preview/tw/JasonHandwriting4.png)
 
+清松手寫體5
+![清松手寫體5](https://github.com/max32002/JasonHandWritingFonts/raw/main/preview/tw/JasonHandwriting5.png)
+
+清松手寫體6
+![清松手寫體6](https://github.com/max32002/JasonHandWritingFonts/raw/main/preview/tw/JasonHandwriting6.png)
+
+清松手寫體7
+![清松手寫體7](https://github.com/max32002/JasonHandWritingFonts/raw/main/preview/tw/JasonHandwriting7.png)
+
 ## 下載字型
 
 請點選GitHub此畫面右上綠色「Clone or download」按鈕，並選擇「Download ZIP」，或點進想下載的ttf字型檔案，再點「Download」的按鈕進行下載。
@@ -50,7 +59,7 @@ https://github.com/jasonhandwriting/JasonHandwriting
 ```
 @font-face {
   font-family: "JasonHandwriting1-Regular";
-  src: url(https://cdn.jsdelivr.net/gh/max32002/JasonHandWritingFonts@20220828/webfont/JasonHandwriting1-Regular.woff2) format("woff2");
+  src: url(https://cdn.jsdelivr.net/gh/max32002/JasonHandWritingFonts@20240409/webfont/JasonHandwriting1-Regular.woff2) format("woff2");
 }
 ```
 說明：調整粗細修改Regular為想要的字重。
@@ -58,7 +67,7 @@ https://github.com/jasonhandwriting/JasonHandwriting
 
 附註：
 
-* 5號字型的固定寬的版本，明顯感覺到奇怪的間距，使用 5p（變動寬）文字間的間距就比較不明顯。
+* 5號 ~ 7號字型除了提供「固定寬」的版本，也有提供「變動寬(加p)」 的版本, 「固定寬」版本會明顯感覺到奇怪的間距，改用「變動寬(加p)」版本的文字的空白間距就比較不明顯。
 * 固定寬的版本也容易覺得文字會忽大忽小。
 * 變動寬的版本，比較有手寫字的效果。
 
