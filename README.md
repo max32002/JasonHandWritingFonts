@@ -52,6 +52,10 @@ https://github.com/jasonhandwriting/JasonHandwriting
 
 ![清松手寫體7](https://github.com/max32002/JasonHandWritingFonts/raw/main/preview/tw/JasonHandwriting7.png)
 
+清松手寫體8
+
+![清松手寫體7](https://github.com/max32002/JasonHandWritingFonts/raw/main/preview/tw/JasonHandwriting8.png)
+
 ## 下載字型
 
 請點選GitHub此畫面右上綠色「Clone or download」按鈕，並選擇「Download ZIP」，或點進想下載的ttf字型檔案，再點「Download」的按鈕進行下載。
